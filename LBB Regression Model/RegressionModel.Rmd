@@ -1,5 +1,5 @@
 ---
-title: "Analysis Regression House Pricing"
+title: "Find your chance to get admitted !"
 author: "Atika Dewi Suryani"
 date: "`r format(Sys.Date(), '%B %e, %Y')`"
 output:
